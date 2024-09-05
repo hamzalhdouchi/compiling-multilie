@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1725489659 source:c:\users\ÍãÒÉ\desktop\ãÌáÏ ÌÏíÏ\compiling multiple\afficher.c
+	"mini.h"
+
+1725489553 c:\users\ÍãÒÉ\desktop\ãÌáÏ ÌÏíÏ\compiling multiple\mini.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1725489644 source:c:\users\ÍãÒÉ\desktop\ãÌáÏ ÌÏíÏ\compiling multiple\ajouter.c
+	"mini.h"
+
+1725489723 source:c:\users\ÍãÒÉ\desktop\ãÌáÏ ÌÏíÏ\compiling multiple\main.c
+	"mini.h"
+
+1725489595 source:c:\users\ÍãÒÉ\desktop\ãÌáÏ ÌÏíÏ\compiling multiple\mettre.c
+	"mini.h"
+
+1725489587 source:c:\users\ÍãÒÉ\desktop\ãÌáÏ ÌÏíÏ\compiling multiple\nbr.c
+	"mini.h"
+
+1725489576 source:c:\users\ÍãÒÉ\desktop\ãÌáÏ ÌÏíÏ\compiling multiple\recherche.c
+	"mini.h"
+
+1725489565 source:c:\users\ÍãÒÉ\desktop\ãÌáÏ ÌÏíÏ\compiling multiple\supreme.c
+	"mini.h"
+
